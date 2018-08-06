@@ -15,7 +15,7 @@
     "simple-peer": "^9.1.2",
     "socket.io": "^2.1.1"
   },
-  "scipts":{
+  "scripts":{
     "start":"node index.js"
   },
   "devDependencies": {
